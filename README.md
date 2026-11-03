@@ -1,4 +1,4 @@
-# KiraWidget
+# Prism
 
 macOS için özgün, estetik masaüstü widget'ları (SwiftUI). Menü çubuğunda yaşar, widget'lar masaüstünde simgelerin arkasında durur.
 
@@ -14,7 +14,7 @@ Saat, Dev Saat (dikey), Analog Saat, Dünya Saati, Takvim, Ajanda (takvim etkinl
 
 ## Derleme
 ```bash
-./build_app.sh   # KiraWidget.app değil, HavaliWidget.app üretir
+./build_app.sh   # HavaliWidget.app üretir
 open HavaliWidget.app
 ```
 Gereksinim: macOS 14+, Xcode komut satırı araçları (Swift 5.9+).
