@@ -1,0 +1,5 @@
+.build/
+*.app
+*.saver
+.DS_Store
+.swiftpm/
