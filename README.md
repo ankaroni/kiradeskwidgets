@@ -22,3 +22,7 @@ Gereksinim: macOS 14+, Xcode komut satırı araçları (Swift 5.9+).
 ## Notlar
 - Uygulama imzasızdır (ad-hoc). İzinlerin (Takvim, Otomasyon) yeniden derlemede kaybolmaması için imza gereksinimi sabit uygulama kimliğine bağlanır (`build_app.sh`).
 - İlk açılışta engellenirse: sağ tık → Aç.
+
+## Lisans
+
+MIT, bkz. [LICENSE](LICENSE).
