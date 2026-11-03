@@ -1,6 +1,6 @@
-# Prism
+# kiradeskwidgets
 
-macOS için özgün, estetik masaüstü widget'ları (SwiftUI). Menü çubuğunda yaşar, widget'lar masaüstünde simgelerin arkasında durur.
+**Desktop widgets for macOS.** Özgün, estetik masaüstü widget'ları (SwiftUI). Menü çubuğunda yaşar, widget'lar masaüstünde simgelerin arkasında durur.
 
 ## Widget'lar
 Saat, Dev Saat (dikey), Analog Saat, Dünya Saati, Takvim, Ajanda (takvim etkinlikleri), Hava Durumu (saatlik grafik), Güneş ve Ay, Sistem (CPU/RAM/pil), Halkalar, Disk ve Ağ, Müzik Çalar (Spotify / Müzik), Yapılacaklar, Geri Sayım, Döviz ve Kripto, Pomodoro, Fotoğraf Çerçevesi, Günün Sözü, Not.
